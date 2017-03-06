@@ -1,0 +1,14 @@
+
+ul {
+margin:0;
+padding:0;
+text-align:center;
+color:blue;
+}
+
+
+body {
+    background: url(background.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
